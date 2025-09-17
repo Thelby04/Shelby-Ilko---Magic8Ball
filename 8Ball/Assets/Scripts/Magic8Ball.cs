@@ -11,9 +11,9 @@ public class Magic8Ball : MonoBehaviour
         {
         // numbers represent the 20 sides of the hidden d20 floating in the magic blue liquid
             "It is certain (20)",
-            "It is decidedly so (19)",
-            "Without a doubt (18)",
-            "Yes - definitely (17)",
+            "It is decidedly so (17)",
+            "Without a doubt (19)",
+            "Yes - definitely (18)",
             "You may rely on it (16)",
             "As I see it, yes (15)",
             "Most Likely (14)",
